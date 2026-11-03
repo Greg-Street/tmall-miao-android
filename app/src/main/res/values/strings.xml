@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">淘宝活动助手</string>
+    <string name="app_author">by GregStreet</string>
+    <string name="connection_state">%1$s\n悬浮窗：%2$s</string>
+    <string name="app_description">自动处理淘宝活动中的浏览、搜索与应用访问任务。可设置停留时间，支持悬浮暂停和继续。</string>
+</resources>

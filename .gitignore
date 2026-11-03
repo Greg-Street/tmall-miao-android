@@ -1,0 +1,22 @@
+.gradle/
+**/build/
+local.properties
+*.jks
+.idea/
+
+# Local credentials, personal data, and generated files
+.env
+.env.*
+*.keystore
+*.jks
+*.p12
+*.pem
+settings.json
+local.properties
+data/
+*.log
+*.tmp
+__pycache__/
+*.py[cod]
+.vscode/
+.idea/

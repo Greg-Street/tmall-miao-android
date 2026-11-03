@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1160" height="840" viewBox="0 0 1160 840" role="img" aria-labelledby="title desc">
+  <title id="title">淘宝活动助手 0.2.9 操作示意</title>
+  <desc id="desc">根据 MainActivity 与悬浮控制功能绘制的示意图，非手机截图。先启动 Shizuku，授权并允许悬浮窗，再开始任务。</desc>
+  <rect width="1160" height="840" rx="24" fill="#faf6f0"/>
+  <g font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif">
+    <text x="58" y="65" font-size="17" font-weight="600" fill="#956042">ANDROID · SHIZUKU · 0.2.9</text>
+    <text x="58" y="114" font-size="34" font-weight="700" fill="#38251d">在手机上开始，随时暂停</text>
+    <text x="58" y="148" font-size="17" fill="#77716b">界面操作示意 · 非实机截图 · 默认设置</text>
+    <rect x="58" y="185" width="402" height="596" rx="24" fill="#ffffff" stroke="#e8ded1" stroke-width="2"/>
+    <text x="84" y="230" font-size="26" font-weight="700" fill="#38251d">淘宝活动助手</text>
+    <text x="84" y="258" font-size="14" fill="#956042">Shizuku 版 · 0.2.9 · by GregStreet</text>
+    <text x="84" y="298" font-size="18" font-weight="600" fill="#38251d">首次使用</text>
+    <text x="84" y="326" font-size="14" fill="#49413b">安装并启动 Shizuku，授权后开始。</text>
+    <g fill="#f4e8d9" stroke="#e8d4be">
+      <rect x="84" y="346" width="350" height="39" rx="9"/>
+      <rect x="84" y="396" width="350" height="39" rx="9"/>
+      <rect x="84" y="446" width="350" height="39" rx="9"/>
+    </g>
+    <g font-size="14" fill="#69452d" text-anchor="middle">
+      <text x="259" y="371">打开 Shizuku</text>
+      <text x="259" y="421">授权 Shizuku / 重新连接</text>
+      <text x="259" y="471">允许显示悬浮窗</text>
+    </g>
+    <text x="84" y="521" font-size="18" font-weight="600" fill="#38251d">执行设置</text>
+    <g font-size="14" fill="#49413b">
+      <text x="84" y="554">本轮尝试次数上限</text>
+      <text x="84" y="596">应用访问停留</text>
+      <text x="84" y="638">浏览额外停留</text>
+    </g>
+    <g fill="#faf6f0" stroke="#e8ded1">
+      <rect x="326" y="532" width="108" height="31" rx="6"/>
+      <rect x="326" y="574" width="108" height="31" rx="6"/>
+      <rect x="326" y="616" width="108" height="31" rx="6"/>
+    </g>
+    <g font-size="14" fill="#38251d" text-anchor="middle">
+      <text x="380" y="553">80 次</text>
+      <text x="380" y="595">2 秒</text>
+      <text x="380" y="637">1 秒</text>
+    </g>
+    <rect x="84" y="671" width="350" height="48" rx="10" fill="#e35b27"/>
+    <text x="259" y="701" text-anchor="middle" font-size="17" fill="#fff" font-weight="600">开始执行</text>
+    <text x="84" y="751" font-size="12" fill="#77716b">保持竖屏、解锁，并先登录淘宝。</text>
+    <g fill="#e35b27">
+      <circle cx="538" cy="244" r="18"/>
+      <circle cx="538" cy="365" r="18"/>
+      <circle cx="538" cy="486" r="18"/>
+    </g>
+    <g text-anchor="middle" fill="white" font-size="17" font-weight="700">
+      <text x="538" y="250">1</text><text x="538" y="371">2</text><text x="538" y="492">3</text>
+    </g>
+    <g fill="#38251d" font-size="21" font-weight="600">
+      <text x="576" y="251">手机启动 Shizuku</text>
+      <text x="576" y="372">授权与执行设置</text>
+      <text x="576" y="493">运行中使用悬浮控制</text>
+    </g>
+    <g fill="#77716b" font-size="16">
+      <text x="576" y="284">无线调试配对，日常使用无需电脑。</text>
+      <text x="576" y="405">连接 Shizuku，允许助手显示悬浮窗。</text>
+      <text x="576" y="431">调整尝试次数、访问时间和浏览补时。</text>
+      <text x="576" y="526">遇到验证或需要本人处理的页面时暂停。</text>
+    </g>
+    <rect x="519" y="563" width="583" height="95" rx="18" fill="#38251d"/>
+    <text x="542" y="594" fill="#f4ddc5" font-size="13">悬浮控制 · 状态仅作示意</text>
+    <g font-size="16" font-weight="600" text-anchor="middle">
+      <text x="594" y="631" fill="#fff">暂停</text>
+      <text x="805" y="631" fill="#fff">继续</text>
+      <text x="1011" y="631" fill="#ffb58c">停止</text>
+    </g>
+    <text x="519" y="707" fill="#956042" font-size="17" font-weight="600">操作计数不代表任务完成或奖励到账。</text>
+    <text x="519" y="739" fill="#77716b" font-size="15">截图在手机内离线识别；不自动解答验证码。</text>
+    <text x="519" y="767" fill="#77716b" font-size="15">真实界面随系统主题和屏幕尺寸变化。</text>
+  </g>
+</svg>
